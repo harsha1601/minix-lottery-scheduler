@@ -1,12 +1,3 @@
-CMPS 111 - Spring 2014
-Programming Project #2
-
-Authors: 
-	Ryan Gliever -- rgliever@ucsc.edu
-	Leland Miller
-	Craig Collins
-	Mat Fukano
-
 About:
 This program changes the minix scheduler to either a dynamic or static lottery scheduler.
 In the static lottery scheduler, the number of tickets does not change.
